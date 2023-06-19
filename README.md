@@ -7,4 +7,4 @@ Here are some things to get to know me:
 - 🔭 I’m tinkering on a OrangePi **(because everyone steals the RaspberyPis)** home security system made with **Python**!
 - 🌱 I’m learning Rust!
 - 💬 Ask me about anything you need help with!
-- ⚡ Fun fact: I eat tuna out of the can! 😋
+- ⚡ Fun fact: I started coding at age 7! (only a bit at first)
