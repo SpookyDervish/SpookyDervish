@@ -1,12 +1,10 @@
 ### Hi there 👋
+My name's Nathaniel!  
 
-hello nerd
-
-i do mostly Python / LuaU (Roblox) stuff, I've also found an interest in networking recently.
-check out my conlang here btw: https://gorgus-ikshrerack.github.io/GorgusTranslatorWeb/
+I primarily work in Python and also have experience with C. I received Second Place overall in NSW and First Place nationally for Best AI Project (Middle Division, Years 7-9) in the 2025 Young ICT Explorers Competition. Outside of coding, I enjoy making music and creating conlangs.
 
 ### GitHub Stats
-[![Gareths's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpookyDervish)](https://github.com/SpookyDervish/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SpookyDervish)](https://github.com/SpookyDervish/github-readme-stats)
 
 ### GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=SpookyDervish)](https://github.com/SpookyDervish/github-profile-trophy)
